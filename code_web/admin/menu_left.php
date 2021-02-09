@@ -1,0 +1,9 @@
+<div class="list-group">
+	
+	<a href="admin.php" class="list-group-item list-group-item-action">จัดการผู้ดูแลระบบ</a>
+	<a href="member.php" class="list-group-item list-group-item-action">จัดการสมาชิก</a>
+	<a href="type.php" class="list-group-item list-group-item-action">จัดการประเภทสินค้า</a>
+	<a href="menu.php" class="list-group-item list-group-item-action ">จัดการสินค้า</a>
+	<a href="table.php" class="list-group-item list-group-item-action ">จัดการโต๊ะ</a>
+	<a href="income.php" class="list-group-item list-group-item-action ">รายได้ในแต่ละเดือน</a>
+</div>
